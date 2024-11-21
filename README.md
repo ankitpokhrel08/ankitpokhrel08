@@ -51,8 +51,3 @@
 
 ###
 
-###
-
-<img src="https://raw.githubusercontent.com/pokhrelworks/pokhrelworks/output/snake.svg" alt="Snake animation" />
-
-###
