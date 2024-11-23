@@ -2,7 +2,9 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZnaWZkOTk3NGx0dDlubDZmcHUzZWE1YXpkd2d1ZGk1YTJqc2JzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
 
   <div id="badges">
-    <a href='pokhrelankit.com.np'><img src='https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=linkl&logoColor=blue' /></a>
+  <a href="https://pokhrelankit.com.np" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+</a>
     <a href='pokhrelankit2004@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
     <a href='www.linkedin.com/in/ankitpokhrel'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a> 
     <a href='https://x.com/_pokhrelankit'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' /></a>
