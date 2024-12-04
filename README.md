@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZnaWZkOTk3NGx0dDlubDZmcHUzZWE1YXpkd2d1ZGk1YTJqc2JzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
-
   <div id="badges">
   <a href="https://pokhrelankit.com.np" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
@@ -21,7 +20,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me :  <p align="left"> <img src="https://komarev.com/ghpvc/?username=pokhrelworks&label=Profile%20views&color=0e75b6&style=flat" alt="pokhrelworks" /> </p>
 
 I am an Undergrad Computer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
 
