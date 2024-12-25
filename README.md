@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/20/ed/06/20ed06db283022697f34602fdba35ae3.gif" width="600" height="300"/>
+  <img src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="600" height="300"/>
 </div>
 
 ---
