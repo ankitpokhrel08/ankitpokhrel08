@@ -25,7 +25,8 @@
 I am an Undergrad Computer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
 
 - :telescope: I specialize in building Frontend and Backend applications.
-- 🔈 Fluent in English (speaking, reading, and writing).
+- Currently learning about AI/ML.
+- Open to collab in projects on WebDev & AI/ML
 - :zap: Continuously expanding knowledge in Web technologies and software development.
 
 ---
