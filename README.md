@@ -39,8 +39,8 @@ I am an Undergrad Computer Engineer <img src="https://media.giphy.com/media/WUlp
 
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ankitpokhrel08&theme=dark&hide_border=true&border_radius=20&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ankitpokhrel08&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitpokhrel08&hide=contribs&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitpokhrel08&hide=contribs&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515&rank_icon=github)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpokhrel08&layout=pie&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpokhrel08&size_weight=0.5&count_weight=0.5&layout=pie&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515)
