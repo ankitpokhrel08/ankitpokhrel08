@@ -25,7 +25,7 @@
 I am an Undergrad Computer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
 
 - :telescope: I specialise in building Machine Learning models and products.
-- Currently learning about MLOPS.
+- Currently learning about DevOps.
 - Open to collab in projects on AI/ML or any topics, `always ready to learn and contribute`
 - :zap: Continuously expanding knowledge in AI-ML.
 
@@ -38,11 +38,10 @@ I am an Undergrad Computer Engineer <img src="https://media.giphy.com/media/WUlp
 </p>
 
 
-### :fire: My Stats :
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ankitpokhrel08&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ankitpokhrel08&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpokhrel08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ankitpokhrel08&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=ankitpokhrel08&theme=dark&hide_border=false)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpokhrel08&size_weight=0.5&count_weight=0.5&layout=pie&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515)
