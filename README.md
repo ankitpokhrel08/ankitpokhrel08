@@ -34,7 +34,7 @@ I am an Undergrad Computer Engineer <img src="https://media.giphy.com/media/WUlp
 ### :hammer_and_wrench: Languages and Tools :
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,nodejs,react,tailwind,python,flask,express,wordpress,mongodb,figma,firebase,git,redux,html,css,vite,docker,postman,sklearn,pytorch,tensorflow" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,nodejs,react,tailwind,python,flask,express,mongodb,figma,firebase,git,redux,html,css,vite,docker,postman,sklearn,pytorch,tensorflow,fastapi" alt="Tech Stack" />
 </p>
 
 
