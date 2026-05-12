@@ -25,7 +25,7 @@
 I am an Undergrad Computer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
 
 - :telescope: I specialise in building Machine Learning models and products.
-- Currently learning about DevOps.
+- Currently learning about GEN-AI.
 - Open to collab in projects on AI/ML or any topics, `always ready to learn and contribute`
 - :zap: Continuously expanding knowledge in AI-ML.
 
