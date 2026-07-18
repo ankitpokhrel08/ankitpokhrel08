@@ -42,8 +42,4 @@ I am an Undergrad Computer Engineer <img src="https://media.giphy.com/media/WUlp
 ![](https://github-readme-stats.vercel.app/api?username=ankitpokhrel08&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=ankitpokhrel08&theme=dark&hide_border=false)
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpokhrel08&size_weight=0.5&count_weight=0.5&layout=pie&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515)
-
 [![An image of @ankitpokhrel08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankitpokhrel08)](https://holopin.io/@ankitpokhrel08)
